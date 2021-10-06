@@ -9,6 +9,11 @@
 .content {
     font-size: 15px;
     transition: font-size 2s;
+    margin-bottom: 12px;
+}
+
+.content:last-child {
+    margin-bottom: 0;
 }
 
 .content:hover {
