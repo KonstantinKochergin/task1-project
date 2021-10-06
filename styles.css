@@ -1,3 +1,7 @@
 .hello-world {
-    color: yellow;
+    color: gray;
+}
+
+.content {
+    font-size: 15px;
 }
